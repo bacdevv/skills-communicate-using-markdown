@@ -1,2 +1,6 @@
 # This is h1 file
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```javascript
+var greeting = 'hello world';
+```
